@@ -1,0 +1,151 @@
+#order-details-table {
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+
+.search-order-details {
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    top: 40%;
+    left: 6.5%;
+}
+
+.searchBtn-orderdetails {
+    background-color: #008cff;
+    color: aliceblue;
+    position: absolute;
+    top: 22%;
+}
+
+/* item,customer */
+.searchBtn {
+    position: absolute;
+    top: 13%;
+    right: 80%;
+    background-color: #008cff;
+    color: aliceblue;
+}
+
+.searchField-details {
+    position: absolute;
+    left: 25%;
+}
+
+#search4 {
+    position: absolute;
+    left: 12%;
+    width: 17%;
+}
+
+.card-header {
+    position: absolute;
+    top: 48%;
+    right: 10%;
+    font-size: larger;
+    color: #ff6600;
+}
+
+.total-order-div > h5 {
+    position: absolute;
+    color: #006d00;
+    top: 10%;
+    left: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 300%;
+}
+
+#order-total-name {
+    position: absolute;
+    top: 70%;
+    color: #006d00;
+    left: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%; 
+}
+
+.total-item-div > h5 {
+    position: absolute;
+    color: #006eff;
+    top: 10%;
+    left: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 300%;
+}
+ 
+#item-total-name{
+    position: absolute;
+    top: 70%;
+    color: #006eff;
+    left: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%; 
+}
+
+.total-customer-div > h5 {
+    position: absolute;
+    color: #ff0000;
+    top: 10%;
+    left: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 300%;
+}
+
+#customer-total-name {
+    position: absolute;
+    top: 70%;
+    color: #ff00009a;
+    left: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
+}
+
+.total-customer-div {
+    position: absolute;
+    background: rgb(230, 230, 230);
+    width: 20%;
+    height: 15%;
+    left: 10%;
+    top: 20%;
+    border-radius: 5px;
+}
+
+.total-item-div {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    width: 20%;
+    height: 15%;
+    background: rgb(230, 230, 230);
+    border-radius: 5px;
+}
+
+.total-order-div {
+    position: absolute;
+    top: 20%;
+    left: 70%;
+    width: 20%;
+    height: 15%;
+    background: rgb(230, 230, 230);
+}
+
+.gray-div {
+    position: absolute;
+    top: 50%;
+    left: 9%;
+    width: 80%;
+    height: 40%;
+    background: rgb(230, 230, 230);
+}
+
+.cust-img,
+.item-img,
+.order-img {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    width: 20%;
+    height: 50%;
+}
